@@ -6,7 +6,7 @@ body, html {
     align-items: center; /* ยืดหรือย่อ Flex Items ในแนวตั้งเพื่อจัดตำแหน่งตามศูนย์กลาง */
 }
 
-.container {
+.img1 {
     width: 50vw; /* กำหนดความกว้างของคอนเทนเนอร์เป็น 50% ของ viewport width */
     height: 50vh; /* กำหนดความสูงของคอนเทนเนอร์เป็น 50% ของ viewport height */
 }
