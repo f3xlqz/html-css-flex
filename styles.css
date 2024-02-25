@@ -7,8 +7,8 @@ body, html {
 }
 
 .img1 {
-    width: 50vw; /* กำหนดความกว้างของคอนเทนเนอร์เป็น 50% ของ viewport width */
-    height: 50vh; /* กำหนดความสูงของคอนเทนเนอร์เป็น 50% ของ viewport height */
+    width: 50vw; /* กำหนดความกว้างของ img เป็น 50% ของ viewport width */
+    height: 50vh; /* กำหนดความสูงของ img เป็น 50% ของ viewport height */
 }
 
 img {
